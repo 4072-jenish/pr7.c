@@ -52,10 +52,7 @@ main(){
 	
 	
 	do{
-		
-		switch(c){
-			case 1:
-			printf("Press 1 for pluse :-");
+		printf("Press 1 for pluse :-");
 	 		printf("Press 2 for mainus :-");
 			printf("Press 3 for multiplication :-");
 			printf("Press 4 for divison :-");
